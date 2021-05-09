@@ -1,0 +1,12 @@
+{
+    "name": "GSSFinance",
+    "website": "https://gssfinance.org/",
+    "description": "NFT, Crypto Wallet, 100% Community Driven, Automatic LP, RFI Static Rewards",
+    "explorer": "https://bscscan.com/token/0x0882b02cbb15b4e0b3678a0449bfa699603845b6",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "GSS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0882b02cbb15b4e0b3678a0449bfa699603845b6"
+}
